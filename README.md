@@ -5,5 +5,5 @@ A Python version of reliable data transfer over UDP implemented using the go-bac
 
 To run the system:
 
-Run the receiver: python receiver.py [filename of the file to write to]
-Run the sender: python sender.py [filename of file to read from]
+- Run the receiver: python receiver.py [filename of the file to write to]
+- Run the sender: python sender.py [filename of file to read from]
